@@ -1,9 +1,9 @@
 
 # Project-specific Files
-dl_project/ROMs/*
-dl_project/unused/*
-dl_project/project/*
-dl_project/data/*
+RL_project/ROMs/*
+RL_project/unused/*
+RL_project/project/*
+RL_project/data/*
 *.mdl
 
 # Byte-compiled / optimized / DLL files
